@@ -38,7 +38,6 @@ Elderly individuals who rely on multiple, rotating caretakers experience real di
 
 CareContinuum is built around three core layers, wrapped by an interaction layer on one end and a caretaker-facing output on the other.
 
-![CareContinuum Architecture]
 <img width="1264" height="843" alt="Architecture" src="https://github.com/user-attachments/assets/3b646c33-3d11-4a76-91e1-b6890a6891f1" />
 
 
